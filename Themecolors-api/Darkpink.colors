@@ -9,7 +9,7 @@ ForegroundNormal     = 255,255,255
 
 [Colors:Selection]
 BackgroundNormal     = 25,25,25,25
-ForegroundNormal     = 0,0,0
+ForegroundNormal     = 75,75,75
 
 
 [Colors:View]
