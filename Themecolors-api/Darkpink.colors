@@ -13,9 +13,9 @@ ForegroundNormal     = 0,0,0
 
 
 [Colors:View]
-BackgroundAlternate  = 0,0,0
-BackgroundNormal     = 0,0,0
-ForegroundLink       = 255,255,255
+BackgroundAlternate  = 12,12,12
+BackgroundNormal     = 50,50,50
+ForegroundLink       = 255,90,90
 ForegroundNormal     = 75,75,75
 
 
