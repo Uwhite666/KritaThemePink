@@ -8,8 +8,8 @@ ForegroundNormal     = 255,90,90
 
 
 [Colors:Selection]
-BackgroundNormal     = 40,40,40,255
-ForegroundNormal     = 255,255,255
+BackgroundNormal     = 25,25,25,255
+ForegroundNormal     = 0,0,0
 
 
 [Colors:View]
