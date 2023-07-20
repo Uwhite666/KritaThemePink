@@ -21,7 +21,7 @@ ForegroundNormal     = 75,75,75
 
 [Colors:Window]
 BackgroundNormal     = 12,12,12
-ForegroundNormal     = 5,5,5
+ForegroundNormal     = 0,0,0
 
 
 [General]
