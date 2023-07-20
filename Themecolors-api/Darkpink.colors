@@ -14,13 +14,13 @@ ForegroundNormal     = 0,0,0
 
 [Colors:View]
 BackgroundAlternate  = 0,0,0
-BackgroundNormal     = 240,240,240
+BackgroundNormal     = 0,0,0
 ForegroundLink       = 140,60,100
 ForegroundNormal     = 255,255,255
 
 
 [Colors:Window]
-BackgroundNormal     = 230,230,230
+BackgroundNormal     = 0,0,0
 ForegroundNormal     = 255,255,255
 
 
