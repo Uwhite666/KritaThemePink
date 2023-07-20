@@ -11,4 +11,8 @@ the third would be salmon and the room is very hot pink and has a little orange 
 3 - Salmon
 4 - Grunge Pink
 
-
+The tutorial is quite simple:
+Restart Krita to see the changes, and choose your theme. 
+If this was fun, and you want to create new colors, soon I'll be recording a video explaining how I did it and how you can do it too.
+Follow me on social networks:)
+https://linktr.ee/Mr.uwhite?utm_source=linktree_admin_share
