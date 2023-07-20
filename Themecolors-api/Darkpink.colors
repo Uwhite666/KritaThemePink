@@ -13,14 +13,14 @@ ForegroundNormal     = 75,75,75
 
 
 [Colors:View]
-BackgroundAlternate  = 12,12,12
-BackgroundNormal     = 50,50,50
-ForegroundLink       = 255,90,90
-ForegroundNormal     = 75,75,75
+BackgroundAlternate  = 50,50,50
+BackgroundNormal     = 255,90,90
+ForegroundLink       = 255,255,255
+ForegroundNormal     = 140,140,140
 
 
 [Colors:Window]
-BackgroundNormal     = 12,12,12
+BackgroundNormal     = 25,25,25
 ForegroundNormal     = 0,0,0
 
 
