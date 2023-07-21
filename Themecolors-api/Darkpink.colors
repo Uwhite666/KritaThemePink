@@ -3,7 +3,7 @@ ChangeSelectionColor = true
 
 
 [Colors:Button]
-BackgroundNormal     = 220,50,50
+BackgroundNormal     = 150,50,50
 ForegroundNormal     = 70,70,70
 
 
@@ -13,7 +13,7 @@ ForegroundNormal     = 0,0,0
 
 
 [Colors:View]
-BackgroundAlternate  = 0,0,0
+BackgroundAlternate  = 255,255,255
 BackgroundNormal     = 255,61,91
 ForegroundLink       = 0,0,0
 ForegroundNormal     = 0,0,0
