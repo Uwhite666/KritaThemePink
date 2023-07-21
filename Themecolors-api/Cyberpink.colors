@@ -1,1 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
 
+
+[Colors:Button]
+BackgroundNormal     = 230,45,15
+ForegroundNormal     = 255,255,255
+
+
+[Colors:Selection]
+BackgroundNormal     = 230,45,15,180
+ForegroundNormal     = 0,0,0
+
+
+[Colors:View]
+BackgroundAlternate  = 25,25,25
+BackgroundNormal     = 230,45,15
+ForegroundLink       = 0,0,0
+ForegroundNormal     = 255,255,255
+
+
+[Colors:Window]
+BackgroundNormal     = 190,70,64
+ForegroundNormal     = 0,0,0
+
+
+[General]
+Name                 = DarkPink
