@@ -16,12 +16,12 @@ ForegroundNormal     = 100,100,100
 BackgroundAlternate  = 50,5,10
 BackgroundNormal     = 255,61,91
 ForegroundLink       = 0,0,0
-ForegroundNormal     = 50,5,10
+ForegroundNormal     = 0,0,0
 
 
 [Colors:Window]
 BackgroundNormal     = 20,20,20
-ForegroundNormal     = 0,0,0 
+ForegroundNormal     = 100,100,100
 
 
 [General]
