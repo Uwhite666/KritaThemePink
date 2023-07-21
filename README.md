@@ -9,6 +9,7 @@ the third would be salmon and the room is very hot pink and has a little orange 
 1 - Dark Pink
 2 - Soft Pink
 3 - Salmon
+https://github.com/Uwhite666/KritaThemePink/issues/4#issue-1816276243
 4 - Grunge Pink
 
 The tutorial is quite simple:
