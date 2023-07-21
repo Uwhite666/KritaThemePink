@@ -1,1 +1,25 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
 
+
+[Colors:Button]
+BackgroundNormal     = 145,60,40
+ForegroundNormal     = 0,0,0
+
+
+[Colors:Selection]
+BackgroundNormal     = 50,100,30,200
+ForegroundNormal     = 220,220,220
+
+[Colors:View]
+BackgroundAlternate  = 255,255,235
+BackgroundNormal     = 72,80,30
+ForegroundLink       = 220,220,220
+ForegroundNormal     = 0,0,0
+
+[Colors:Window]
+BackgroundNormal     = 235,132,120
+ForegroundNormal     = 255,255,255
+
+[General]
+Name                 = SalmonPink
