@@ -4,24 +4,23 @@ ChangeSelectionColor = true
 
 [Colors:Button]
 BackgroundNormal     = 150,90,30
-ForegroundNormal     = 180,140,10
+ForegroundNormal     = 0,0,0
 
 
 [Colors:Selection]
-BackgroundNormal     = 50,25,60,180
+BackgroundNormal     = 50,25,60,120
 ForegroundNormal     = 0,0,0
 
 
 [Colors:View]
 BackgroundAlternate  = 180,140,10
-BackgroundNormal     = 255,60,80
+BackgroundNormal     = 130,30,50
 ForegroundLink       = 0,0,0
 ForegroundNormal     = 180,140,10
 
 [Colors:Window]
-BackgroundNormal     = 50,25,60
-ForegroundNormal     = 180,140,10
-
+BackgroundNormal     = 32,22,35
+ForegroundNormal     = 0,0,0
 
 [General]
 Name                 = CyberPink
