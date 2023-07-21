@@ -13,7 +13,7 @@ ForegroundNormal     = 220,220,220
 
 [Colors:View]
 BackgroundAlternate  = 255,255,235
-BackgroundNormal     = 255,230,210
+BackgroundNormal     = 255,200,160
 ForegroundLink       = 220,220,220
 ForegroundNormal     = 255,255,255
 
