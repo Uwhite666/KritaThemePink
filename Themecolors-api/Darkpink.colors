@@ -8,7 +8,7 @@ ForegroundNormal     = 70,70,70
 
 
 [Colors:Selection]
-BackgroundNormal     = 255,61,91,250 
+BackgroundNormal     = 255,61,91,180
 ForegroundNormal     = 0,0,0
 
 
@@ -20,8 +20,8 @@ ForegroundNormal     = 0,0,0
 
 
 [Colors:Window]
-BackgroundNormal     = 20,20,20
-ForegroundNormal     = 100,100,100
+BackgroundNormal     = 12,12,12
+ForegroundNormal     = 200,200,200
 
 
 [General]
