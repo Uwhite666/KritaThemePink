@@ -4,7 +4,7 @@ ChangeSelectionColor = true
 
 [Colors:Button]
 BackgroundNormal     = 235,132,120
-ForegroundNormal     = 220,220,220
+ForegroundNormal     = 255,255,255
 
 
 [Colors:Selection]
@@ -15,11 +15,11 @@ ForegroundNormal     = 220,220,220
 BackgroundAlternate  = 255,255,235
 BackgroundNormal     = 220,220,220
 ForegroundLink       = 220,220,220
-ForegroundNormal     = 235,140,140
+ForegroundNormal     = 255,255,255
 
 [Colors:Window]
 BackgroundNormal     = 235,132,120
-ForegroundNormal     = 235,140,140
+ForegroundNormal     = 255,255,255
 
 [General]
 Name                 = SoftPink
