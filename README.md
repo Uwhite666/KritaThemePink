@@ -17,7 +17,7 @@ the third would be salmon and the fourth it is very detailed, with yellow colors
 ![CyberPink](https://github.com/Uwhite666/KritaThemePink/assets/125118284/442db2d8-14ab-4673-a05f-ad8956cbc407)
 
 The tutorial is quite simple:
-
+![tutorialkritatheme](https://github.com/Uwhite666/KritaThemePink/assets/125118284/c26797ed-6ee4-4e96-ba52-274dd344b1ec)
 Restart Krita to see the changes, and choose your theme. 
 If this was fun, and you want to create new colors, soon I'll be recording a video explaining how you can do it too.
 Follow me on social networks:)
