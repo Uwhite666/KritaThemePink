@@ -1,1 +1,25 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
 
+
+[Colors:Button]
+BackgroundNormal     = 235,132,120
+ForegroundNormal     = 220,220,220
+
+
+[Colors:Selection]
+BackgroundNormal     = 220,220,220,120
+ForegroundNormal     = 220,220,220
+
+[Colors:View]
+BackgroundAlternate  = 180,140,10
+BackgroundNormal     = 220,220,220
+ForegroundLink       = 0,0,0
+ForegroundNormal     = 180,140,10
+
+[Colors:Window]
+BackgroundNormal     = 235,132,120
+ForegroundNormal     = 0,0,0
+
+[General]
+Name                 = SoftPink
