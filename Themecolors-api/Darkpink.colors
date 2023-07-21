@@ -8,13 +8,13 @@ ForegroundNormal     = 200,200,200
 
 
 [Colors:Selection]
-BackgroundNormal     = 255,255,255,250
+BackgroundNormal     = 255,61,91,255 
 ForegroundNormal     = 0,0,0
 
 
 [Colors:View]
 BackgroundAlternate  = 50,5,10
-BackgroundNormal     = 220,61,91
+BackgroundNormal     = 50,5,10
 ForegroundLink       = 0,0,0
 ForegroundNormal     = 255,255,255
 
